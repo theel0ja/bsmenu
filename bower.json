@@ -1,0 +1,21 @@
+{
+  "name": "bsmenu",
+  "main": "bsmenu.js",
+  "homepage": "https://github.com/theel0ja/bsmenu",
+  "authors": [
+    "Fred at Stack Overflow"
+  ],
+  "description": "Highlights automatically current Bootstrap menu entry.",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "CC-BY-SA-3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

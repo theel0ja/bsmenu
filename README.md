@@ -1,2 +1,2 @@
 # bsmenu
-Highlights automatically Bootstrap menu entry.
+Highlights automatically current Bootstrap menu entry.
